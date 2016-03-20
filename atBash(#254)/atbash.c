@@ -6,27 +6,32 @@
 int main(int argc, char * argv[])
 {
 	int len;
+	int k;
 	int i;
 	char letter;
-	char * string = argv[1];
-
-	len = strlen(argv[1]);
-
-	for(i=0;i<len;i++)
-	{
-		if(isupper(string[i]) != 0)
+	char * string;
+	
+	for(k=1;k<argc;k++)
+	{	
+		string = argv[k];
+		len = strlen(argv[k]);
+		for(i=0;i<len;i++)
 		{
-			letter = string[i];
-			letter = 'Z'-(letter - 'A');
-			printf("%c",letter);
+			if(isupper(string[i]) != 0)
+			{
+				letter = string[i];
+				letter = 'Z'-(letter - 'A');
+				printf("%c",letter);
+			}
+			else
+			{
+				letter = string[i];
+				letter = 'z'-(letter - 'a');
+				printf("%c",letter);
+			}	
 		}
-		else
-		{
-			letter = string[i];
-			letter = 'z'-(letter - 'a');
-			printf("%c",letter);
-		}	
-	}
+		printf(" ");
+	}	
 	printf("\n");
 	return 0;
 }
