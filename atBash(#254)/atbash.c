@@ -1,3 +1,4 @@
+//Atbash cipher written by Christopher Katsaras
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
