@@ -55,7 +55,7 @@ e.g
 
 Welcome to the VHS recording scheduler  
 Please input the number of television shows on the schedule (i.e 5)  
-4
+
 Now enter your shows one at a time in the following format 1230 1320 and hit Enter  
 *PLEASE ENSURE TIME IS ENTERED IN MILITARY TIME!  
 INPUT SHOW 1:  
