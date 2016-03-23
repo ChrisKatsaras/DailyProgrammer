@@ -47,4 +47,26 @@ OUTPUT:
 2 1  
 1  
 
+## Challenge #242
+The VHS Recorder:
+https://www.reddit.com/r/dailyprogrammer/comments/3u6o56/20151118_challenge_242_intermediate_vhs_recording/
 
+e.g 
+
+Welcome to the VHS recording scheduler  
+Please input the number of television shows on the schedule (i.e 5)  
+4
+Now enter your shows one at a time in the following format 1230 1320 and hit Enter  
+*PLEASE ENSURE TIME IS ENTERED IN MILITARY TIME!  
+INPUT SHOW 1:  
+1530 1600  
+INPUT SHOW 2:  
+1555 1645  
+INPUT SHOW 3:  
+1600 1630  
+INPUT SHOW 4:  
+1635 1715  
+Shows you can watch!  
+1530 1600  
+1600 1630  
+1635 1715  
