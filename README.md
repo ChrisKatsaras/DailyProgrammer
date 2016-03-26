@@ -2,7 +2,7 @@
 ###Completed By Christopher Katsaras
 ![alt tag](http://www.theprospect.net/wp-content/uploads/2014/11/technology.gif)  
   
-Compile using:
+Compile c files using:
 > $ gcc -Wall 'filename'
 
 Run: 
