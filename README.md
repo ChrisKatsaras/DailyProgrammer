@@ -2,11 +2,14 @@
 ###Completed By Christopher Katsaras
 ![alt tag](http://www.theprospect.net/wp-content/uploads/2014/11/technology.gif)  
   
-Compile c files using:
+Compile C files using:
 > $ gcc -Wall 'filename'
 
 Run: 
 > $ ./a.out
+
+Compile Java files using:
+> % javac 'filename'
 
 ## Challenge #254
 The Atbash Cipher:
