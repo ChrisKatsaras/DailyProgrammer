@@ -9,7 +9,12 @@ Run:
 > $ ./a.out
 
 Compile Java files using:
-> % javac 'filename'
+> $ javac 'filename'
+
+
+## Table of Contents
+
+- [Challenge #254](#challenge #254)
 
 ## Challenge #254
 The Atbash Cipher:
