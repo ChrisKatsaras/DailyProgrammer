@@ -55,7 +55,7 @@ OUTPUT:
 The VHS Recorder:
 https://www.reddit.com/r/dailyprogrammer/comments/3u6o56/20151118_challenge_242_intermediate_vhs_recording/
 
-e.g 
+e.g for C
 
 Welcome to the VHS recording scheduler  
 Please input the number of television shows on the schedule (i.e 5)  
@@ -74,3 +74,34 @@ Shows you can watch!
 1530 1600  
 1600 1630  
 1635 1715  
+
+e.g for Java
+
+Welcome to the VHS Schdeuler  
+Please input the number of shows available  
+3  
+Please enter the start time of show: 1  
+1200  
+Please enter the end time of show: 1  
+1300  
+Please enter the name of show: 1  
+Star Wars  
+Please enter the start time of show: 2  
+1230  
+Please enter the end time of show: 2  
+1420  
+Please enter the name of show: 2  
+Family Guy  
+Please enter the start time of show: 3  
+1600  
+Please enter the end time of show: 3  
+1720  
+Please enter the name of show: 3  
+Spongebob  
+LIST OF SHOWS:  
+1200 1300 Star Wars  
+1230 1420 Family Guy  
+1600 1720 Spongebob  
+SHOWS YOU CAN WATCH:  
+1200 1300 Star Wars  
+1600 1720 Spongebob  
